@@ -2,4 +2,3 @@ D:\"01 - MEGA\01 - Softwares\TRABALHO\NOTEPAD\"ARQUIVO.txt
 nome
 matheus
 richard
-jonny
